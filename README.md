@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kristine</h1>
 <h3 align="center">An aspiring frontnd engineer based in Seattle, WA 🌧️</h3>
 
-- 🔭 I’m currently working on a React budgeting + finance application
+- 🔭 I’m currently working on a React budgeting + finance application (Currently name: Greater Finance)
 - 🌱 I’m currently learning Firebase
 - 💬 Ask me about anything about me
 - 📫 How to reach me: kbermoy02@gmail.com
