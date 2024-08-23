@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kristine</h1>
-<h3 align="center">An aspiring frontnd engineer based in Seattle, WA 🌧️</h3>
+<h3 align="center">An aspiring software engineer based in Seattle, WA 🌧️</h3>
 
 <h3>💚 Current Goals 💚</h3>
 - Learn python <br>
