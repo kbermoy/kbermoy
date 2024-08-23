@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kristine</h1>
 <h3 align="center">An aspiring frontnd engineer based in Seattle, WA 🌧️</h3>
 
-### ☀️ August 22 - 25 ☀️
+### ☀️ What I did this week ☀️
 | Thursday 22 | Wednesday 23 | Thursday 24 |
 |-------------|--------------|-------------|
 |~1hr review on cloud basics|              |             |
