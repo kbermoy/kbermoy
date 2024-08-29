@@ -17,8 +17,8 @@
 ### ☀️ What I did this week ☀️
 <h3>August 27 - Sept 2</h3>
 
-| Tuesday 27 |
-|------------|
-|1hr of cloud basics |
-|30min of DSA |
+| Tuesday 27         | Wednesday 28 |
+|--------------------|--------------|
+|1hr of cloud basics |2 hr of react
+|30min of DSA        |
 | not much done, since I was sleep deprived from work |
