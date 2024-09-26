@@ -2,8 +2,8 @@
 <h3 align="center">An aspiring software engineer based in Seattle, WA 🌧️</h3>
 
 <h3>💚 Current Goals 💚</h3>
-- Learn python <br>
 - Get certification in AWS Cloud Practitioner
+- Build an accountability app
 
 <h3 align="left">Connect with me:</h3>
 <p alignt="left" class="social__links">
